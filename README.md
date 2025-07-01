@@ -10,14 +10,14 @@ GUI 프로그램으로 LED를 조작하자🎵
 
 <br>
 
-## 💎 GUI Preview
-![image](https://github.com/user-attachments/assets/79f76b33-f316-45ba-80f3-5b435cfe768e)
-
-<br>
-
 ## ✨ 흐름
 ![image](https://github.com/user-attachments/assets/8fded6b6-87da-4d92-811c-bac4db331195)
 
+
+<br>
+
+## 💎 GUI Preview
+![image](https://github.com/user-attachments/assets/79f76b33-f316-45ba-80f3-5b435cfe768e)
 
 <br>
 
