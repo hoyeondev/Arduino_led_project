@@ -14,7 +14,8 @@
 <br>
 
 ### 흐름
-![image](https://github.com/user-attachments/assets/7f120ca9-e663-4a91-b0e1-268fec710edf)
+![image](https://github.com/user-attachments/assets/8fded6b6-87da-4d92-811c-bac4db331195)
+
 
 <br>
 
@@ -32,6 +33,8 @@
 1. 아두이노 연결
 
 ![image](https://github.com/user-attachments/assets/b1b216e8-0005-46e0-b566-d924fc14267e)
+
+<br>
 
 2. LED 색상 선택
 
