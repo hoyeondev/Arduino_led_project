@@ -11,6 +11,8 @@
 <br>
 
 ## 📃 기술 명세
+<br>
+
 >
 > #### 처리 순서
 > ![image](https://github.com/user-attachments/assets/8fded6b6-87da-4d92-811c-bac4db331195)
@@ -36,22 +38,25 @@
 >| 개발환경 | VS Code, Arduino IDE, Qt Designer  |
 >| 라이브러리 | PyQt5, serial|
 >
-> 
+> <br>
 
 
 <br>
 
 ## 🔌 프로그램 실행
+<br>
 
-> 1. 아두이노 연결
+>
+> 
+> **1. 아두이노 연결**
 >
 > ![image](https://github.com/user-attachments/assets/b1b216e8-0005-46e0-b566-d924fc14267e)
 >
-> 2. LED 색상 선택
+> **2. LED 색상 선택**
 >    
 > ![image](https://github.com/user-attachments/assets/634ab187-ccdb-4477-aada-a2db601cf562)
 >
-> 
+> <br>
 
 
 
